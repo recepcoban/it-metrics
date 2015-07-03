@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Hıdır\Desktop\cobitteam</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AddOrListMetrics.aspx">
+      <publishTime>06/09/2015 03:02:32</publishTime>
+    </File>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>06/08/2015 21:40:15</publishTime>
+    </File>
+    <File Include="bin/ITIL.dll">
+      <publishTime>06/09/2015 07:12:00</publishTime>
+    </File>
+    <File Include="bin/ITIL.dll.config">
+      <publishTime>06/09/2015 01:54:40</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css">
+      <publishTime>06/08/2015 20:08:16</publishTime>
+    </File>
+    <File Include="css/custom.css">
+      <publishTime>06/08/2015 19:49:16</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>06/09/2015 01:14:43</publishTime>
+    </File>
+    <File Include="img/img.png">
+      <publishTime>06/09/2015 04:35:55</publishTime>
+    </File>
+    <File Include="Metrics.aspx">
+      <publishTime>06/09/2015 03:22:13</publishTime>
+    </File>
+    <File Include="Report.aspx">
+      <publishTime>06/09/2015 04:12:58</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.7.1.intellisense.js">
+      <publishTime>06/08/2015 19:39:25</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.7.1.js">
+      <publishTime>06/08/2015 19:39:25</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.7.1.min.js">
+      <publishTime>06/08/2015 19:39:25</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/09/2015 04:42:46</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

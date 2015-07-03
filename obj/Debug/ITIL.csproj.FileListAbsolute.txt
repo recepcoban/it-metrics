@@ -1,0 +1,17 @@
+c:\users\hıdır\documents\visual studio 2013\Projects\ITIL\ITIL\bin\ITIL.dll.config
+c:\users\hıdır\documents\visual studio 2013\Projects\ITIL\ITIL\bin\ITIL.dll
+c:\users\hıdır\documents\visual studio 2013\Projects\ITIL\ITIL\bin\ITIL.pdb
+c:\users\hıdır\documents\visual studio 2013\Projects\ITIL\ITIL\obj\Debug\ITIL.csprojResolveAssemblyReference.cache
+c:\users\hıdır\documents\visual studio 2013\Projects\ITIL\ITIL\obj\Debug\ITIL.dll
+c:\users\hıdır\documents\visual studio 2013\Projects\ITIL\ITIL\obj\Debug\ITIL.pdb
+C:\Users\java-1\Desktop\ITIL\ITIL\bin\ITIL.dll
+C:\Users\java-1\Desktop\ITIL\ITIL\bin\ITIL.pdb
+C:\Users\java-1\Desktop\ITIL\ITIL\obj\Debug\ITIL.csprojResolveAssemblyReference.cache
+C:\Users\java-1\Desktop\ITIL\ITIL\obj\Debug\ITIL.dll
+C:\Users\java-1\Desktop\ITIL\ITIL\obj\Debug\ITIL.pdb
+C:\Users\Recep Çoban\Documents\Visual Studio 2013\Projects\ITIL\ITIL\bin\ITIL.dll.config
+C:\Users\Recep Çoban\Documents\Visual Studio 2013\Projects\ITIL\ITIL\bin\ITIL.dll
+C:\Users\Recep Çoban\Documents\Visual Studio 2013\Projects\ITIL\ITIL\bin\ITIL.pdb
+C:\Users\Recep Çoban\Documents\Visual Studio 2013\Projects\ITIL\ITIL\obj\Debug\ITIL.csprojResolveAssemblyReference.cache
+C:\Users\Recep Çoban\Documents\Visual Studio 2013\Projects\ITIL\ITIL\obj\Debug\ITIL.dll
+C:\Users\Recep Çoban\Documents\Visual Studio 2013\Projects\ITIL\ITIL\obj\Debug\ITIL.pdb
